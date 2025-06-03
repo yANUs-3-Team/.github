@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 몽글몽글 상상나래
 
 **아이들을 위한 AI 기반 인터랙티브 동화 생성 플랫폼**  
@@ -88,12 +85,3 @@
 - 프로젝트 발표일: 2024.11.12 (경진대회), 2024.11.28 (인재페스티벌)
 
 ---
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
