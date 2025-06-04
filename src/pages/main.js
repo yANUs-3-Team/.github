@@ -4,12 +4,14 @@ import "../component/Css/main.css";
 
 function Main() {
     return (
-        <div className="main_page">
+        <>
             <Header />
-            메인 화면 테스트
-            <p>이건 bold</p>
+            <div className="main_page">
+                메인 화면 테스트
+                <p>이건 bold</p>
+            </div>
             <Footer />
-        </div>
+        </>
     )
 }
 
