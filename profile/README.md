@@ -25,7 +25,7 @@
 | 분류 | 기술 |
 |------|------|
 | AI 모델 | GPT-4o, SDXL (Stable Diffusion XL) |
-| 백엔드 | Spring Boot, FastAPI |
+| 백엔드 | Express, FastAPI |
 | 프론트엔드 | React.js (웹 기반, 향후 React Native 확장 예정) |
 | 인프라 | GPU 서버, Cloud Storage, OpenAI API |
 | DB | MySQL |
