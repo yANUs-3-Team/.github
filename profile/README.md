@@ -24,10 +24,10 @@
 
 | 분류 | 기술 |
 |------|------|
-| AI 모델 | GPT-4o, SDXL (Stable Diffusion XL) |
+| AI 모델 | A.x, SD (Stable Diffusion) |
 | 백엔드 | Express, FastAPI |
 | 프론트엔드 | React.js (웹 기반, 향후 React Native 확장 예정) |
-| 인프라 | GPU 서버, Cloud Storage, OpenAI API |
+| 인프라 | GPU 서버 |
 | DB | MySQL |
 | 기타 | AI-Hub 데이터셋, HTML5, CSS3 |
 
@@ -36,10 +36,10 @@
 ## 🚀 서비스 구조
 
 1. 사용자 설정 입력 (주인공, 배경 등)
-2. GPT-4o 기반 스토리 자동 생성
-3. SDXL 기반 삽화 실시간 생성
+2. A.X 기반 스토리 자동 생성
+3. SD 기반 삽화 실시간 생성
 4. 인터랙티브한 선택지 제공 (분기 처리)
-
+<img width="1920" height="1080" alt="제목을-입력해주세요_-001 (4)" src="https://github.com/user-attachments/assets/9844c5eb-dad7-4045-8024-30e7d9e4a217" />
 ---
 
 ## 📈 시장과 차별성
@@ -48,8 +48,6 @@
 - **차별성**:
   - 키보드 입력 없이 ‘선택만’으로 스토리 전개
   - 실시간 텍스트 + 삽화 동시 생성
-  <img width="1920" height="1080" alt="제목을-입력해주세요_-001 (4)" src="https://github.com/user-attachments/assets/9844c5eb-dad7-4045-8024-30e7d9e4a217" />
-
 
 ---
 
@@ -67,6 +65,7 @@
 - 감정 기반 애니메이션 요소 삽입
 - 크로스플랫폼 모바일 앱 배포
 - 글로벌 다국어 콘텐츠 확장
+- 이미지 및 텍스트 기반 동영상 생성 기능 추가
 
 ---
 
