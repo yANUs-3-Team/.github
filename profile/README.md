@@ -80,10 +80,10 @@ flowchart LR
   BE <--> AI
   AI --> Static
   UI -->|이미지 URL| Static
-  <img width="1920" height="1080" alt="제목을-입력해주세요_-001 (4)" src="https://github.com/user-attachments/assets/3ac6a641-aaa6-47bf-9f81-ed5020260651" />
+  
 
 ```
-
+<img width="1920" height="1080" alt="제목을-입력해주세요_-001 (4)" src="https://github.com/user-attachments/assets/3ac6a641-aaa6-47bf-9f81-ed5020260651" />
 ---
 
 ## 리포지토리 구조
