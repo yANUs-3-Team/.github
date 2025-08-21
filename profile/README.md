@@ -56,32 +56,6 @@
 
 ## 아키텍처 한눈에 보기
 
-```mermaid
-flowchart LR
-  subgraph Client["웹 클라이언트 (React)"]
-    UI[Create / Interactive / Gallery / Community]
-  end
-
-  subgraph BE["백엔드 API (Express)"]
-    Users[Users / Auth]
-    Articles[Articles / Comments]
-    Stories[Stories / Pages]
-    DB[(MySQL)]
-  end
-
-  subgraph AI["AI 서버 (FastAPI)"]
-    StoryGen[A.X Story Engine]
-    ImgGen[SDXL Image Engine]
-    Static[/static/* 이미지 저장/]
-  end
-
-  UI <--> BE
-  BE <--> DB
-  BE <--> AI
-  AI --> Static
-  UI -->|이미지 URL| Static
-
-```
 <img width="1920" height="1080" alt="제목을-입력해주세요_-001 (4)" src="https://github.com/user-attachments/assets/3ac6a641-aaa6-47bf-9f81-ed5020260651" />
 ---
 
